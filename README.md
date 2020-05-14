@@ -1,8 +1,8 @@
-# Your Project's Name
+# No Boundaries
 
-One or two paragraphs providing an overview of your project.
+No Boundaries provide sessions using various cricket and exercise based activities to promote and improve a child’s physical, mental and social wellbeing. By encouraging and increasing these three areas of wellbeing, a child has the best chance to thrive in all areas of their future lives.
 
-Essentially, this part is your sales pitch.
+This project will be creating a new website for No Boundaries to use when introducing themselves to schools and councils, in the hope of securing bookings. 
  
 ## UX
  
